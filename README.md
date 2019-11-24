@@ -13,7 +13,7 @@ A very simplistic react carousel component.
 
 ## npm script commands
 
-`backpack-react-scripts` is listed as a `devDependency` in your [package.json](./package.json) and exposes the following npm scripts:
+`backpack-react-scripts` is listed as a `devDependency` and exposes the following npm scripts:
 
 - `npm start`: Runs the app in development mode. Open [http://localhost:3000/](http://localhost:3000/) to view it in the browser. The page will reload if you make edits. You will see the build errors in the console.
 - `npm test`: Runs the test watcher in an interactive mode. By default, runs tests related to files changes since the last commit.
