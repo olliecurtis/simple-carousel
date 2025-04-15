@@ -1,5 +1,5 @@
-import 'bpk-stylesheets/base';
-import 'bpk-stylesheets/base.css';
+import '@skyscanner/backpack-web/bpk-stylesheets/base';
+import '@skyscanner/backpack-web/bpk-stylesheets/base.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom';

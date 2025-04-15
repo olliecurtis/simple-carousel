@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "backpack-react-scripts": "7.0.3",
-    "prop-types": "^15.7.2"
+    "@skyscanner/backpack-react-scripts": "^11.2.2",
+    "@skyscanner/backpack-web": "^37.0.0",
+    "prop-types": "^15.8.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -19,15 +20,10 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "bpk-component-button": "^3.1.9",
-    "bpk-component-code": "^2.0.18",
-    "bpk-component-text": "^2.0.18",
-    "bpk-mixins": "^19.0.18",
-    "bpk-stylesheets": "^4.0.18",
-    "lodash": "^4.17.15",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-swipeable": "^5.4.0",
-    "styled-components": "^4.4.1"
+    "lodash": "^4.17.21",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-swipeable": "^7.0.2",
+    "styled-components": "^6.1.17"
   }
 }
